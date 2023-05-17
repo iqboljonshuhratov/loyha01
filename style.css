@@ -1,0 +1,1706 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.birinchi {
+  background-image: url(./rasmlar/alisher\ fayz.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+.d2 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.d22 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.d22 div {
+  border-radius: 0px 0px 20px 20px;
+}
+.d22 div img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.d23 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.d23 div {
+  border-radius: 0px 0px 20px 20px;
+}
+.d23 div img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.d24 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.d24 div {
+  border-radius: 0px 0px 20px 20px;
+}
+.d24 div img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.d25 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.d25 div {
+  border-radius: 0px 0px 20px 20px;
+}
+.d25 div img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.d26 {
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.d26 div {
+  border-radius: 0px 0px 20px 20px;
+}
+.d26 div img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+@media (min-width: 1024px) {
+  main {
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 4093px;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 25% 15% 15% 35% 10%;
+  }
+  .birinchi {
+    background-color: white;
+    display: flex;
+    padding: 0px 88px;
+    flex-wrap: wrap;
+  }
+  .birinchi .bosh {
+    width: 100%;
+    height: 15%;
+    display: flex;
+  }
+  .birinchi .bosh .chap {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 10px;
+  }
+  .birinchi .bosh .chap img {
+    width: 39.05px;
+    height: 40px;
+    border-radius: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .birinchi .bosh .chap strong {
+    font-size: 28px;
+    margin: 0px 60px 0px 0px;
+  }
+  .birinchi .bosh .chap nav ul {
+    display: flex;
+    list-style: none;
+    gap: 10%;
+    font-size: 18px;
+  }
+  .birinchi .bosh .ong {
+    display: flex;
+    width: 30%;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 30px;
+    padding: 20px;
+  }
+  .birinchi .bosh .ong .img1 {
+    width: 34px;
+    height: 34px;
+  }
+  .birinchi .bosh .ong .img2 {
+    width: 34px;
+    height: 34px;
+  }
+}
+@media (min-width: 1024px) and (min-width: 1024px) {
+  .birinchi .bosh .korinmas {
+    display: none;
+  }
+}
+@media (min-width: 1024px) {
+  .birinchi .orta {
+    width: 100%;
+    height: 55%;
+    display: flex;
+    color: white;
+    align-items: center;
+  }
+  .birinchi .orta div {
+    width: 579px;
+    height: 201px;
+  }
+  .birinchi .orta div strong {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+  }
+}
+@media (min-width: 1024px) {
+  .birinchi .teg {
+    width: 100%;
+    height: 30%;
+    background-color: rgba(255, 0, 0, 0.772);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+    color: white;
+  }
+  .birinchi .teg strong {
+    width: 616px;
+    height: 55px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+  }
+  .birinchi .teg p {
+    width: 616px;
+    height: 72px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    margin: 0;
+  }
+  .birinchi .teg button {
+    width: 93px;
+    height: 18px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #FF753A;
+    border-radius: 32px;
+    width: 135px;
+    height: 39px;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+  }
+}
+@media (min-width: 1024px) {
+  .ikkinchi {
+    background-color: white;
+    display: flex;
+    padding: 88px;
+    -moz-column-gap: 3%;
+         column-gap: 3%;
+    row-gap: 14px;
+    flex-wrap: wrap;
+  }
+  .ikkinchi .d1 {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .ikkinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .ikkinchi .d1 strong {
+    font-size: 40px;
+  }
+  .ikkinchi .d2 {
+    width: 31.3%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .ikkinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .ikkinchi .d2 div:nth-child(1) img {
+    height: 100%;
+  }
+  .ikkinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .ikkinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 70%;
+    font-size: 100%;
+    padding: 0px;
+  }
+  .ikkinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 10px;
+    width: 100%;
+  }
+  .ikkinchi .d2 div:nth-child(2) .past {
+    width: 100%;
+    font-size: 12px;
+  }
+}
+@media (min-width: 1024px) and (min-width: 1024px) {
+  .ikkinchi div:nth-child(5) {
+    display: none;
+  }
+}
+@media (min-width: 1024px) {
+  .uchinchi {
+    display: flex;
+    padding: 88px;
+    -moz-column-gap: 3%;
+         column-gap: 3%;
+    row-gap: 14px;
+    flex-wrap: wrap;
+  }
+  .uchinchi .d1 {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .uchinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .uchinchi .d1 strong {
+    font-size: 40px;
+  }
+  .uchinchi .d2 {
+    background-color: white;
+    width: 31.3%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .uchinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .uchinchi .d2 div:nth-child(1) img {
+    height: 100%;
+  }
+  .uchinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .uchinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 70%;
+    height: 23px;
+    font-size: 18px;
+    padding: 0px;
+  }
+  .uchinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 10px;
+    width: 300px;
+  }
+  .uchinchi .d2 div:nth-child(2) .past {
+    width: 300px;
+    font-size: 12px;
+  }
+}
+@media (min-width: 1024px) and (min-width: 1023px) {
+  .uchinchi div:nth-child(5) {
+    display: none;
+  }
+}
+@media (min-width: 1024px) {
+  .tortinchi {
+    background-color: white;
+    display: flex;
+    padding: 88px 5% 188px 5%;
+    row-gap: 3%;
+    -moz-column-gap: 32px;
+         column-gap: 32px;
+    flex-wrap: wrap;
+  }
+  .tortinchi .d11 {
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .tortinchi .d11 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .tortinchi .d11 strong {
+    font-size: 40px;
+  }
+  .tortinchi .d22 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d22 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d22 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d22 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+  }
+  .tortinchi .d22 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d22 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d23 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d23 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d23 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d23 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+  }
+  .tortinchi .d23 .past strong {
+    font-size: 140%;
+  }
+  .tortinchi .d23 .past p {
+    color: #C4C4C4;
+    font-size: 100%;
+  }
+  .tortinchi .d24 {
+    width: 30%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d24 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d24 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d24 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    gap: 4%;
+  }
+  .tortinchi .d24 .past strong {
+    font-size: 140%;
+  }
+  .tortinchi .d24 .past p {
+    color: #C4C4C4;
+    font-size: 100%;
+  }
+  .tortinchi .d25 {
+    width: 30%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d25 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d25 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d25 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    gap: 4%;
+  }
+  .tortinchi .d25 .past strong {
+    font-size: 140%;
+  }
+  .tortinchi .d25 .past p {
+    color: #C4C4C4;
+    font-size: 100%;
+  }
+  .tortinchi .d26 {
+    width: 32.9%;
+    height: 42%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 70% 30%;
+  }
+  .tortinchi .d26 .tepa {
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d26 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d26 .past {
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    gap: 4%;
+  }
+  .tortinchi .d26 .past strong {
+    font-size: 140%;
+  }
+  .tortinchi .d26 .past p {
+    color: #C4C4C4;
+    font-size: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  .beshinchi {
+    display: flex;
+    flex-direction: column;
+  }
+  .beshinchi .yuqori {
+    width: 100%;
+    height: 90%;
+    background-color: rgba(0, 0, 0, 0.7019607843);
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 1fr;
+    padding: 60px 100px;
+  }
+  .beshinchi .yuqori .chap1 {
+    display: flex;
+    gap: 48px;
+    align-items: center;
+  }
+  .beshinchi .yuqori .chap1 nav ul {
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+  }
+  .beshinchi .yuqori .chap1 nav ul li:nth-child(1) {
+    background-color: white;
+    width: 90px;
+    height: 3px;
+  }
+  .beshinchi .yuqori .ong1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60% 40%;
+  }
+  .beshinchi .yuqori .ong1 .tepa {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  .beshinchi .yuqori .ong1 .tepa img {
+    width: 39.05px;
+    height: 40px;
+    border-radius: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .beshinchi .yuqori .ong1 .tepa strong {
+    font-size: 28px;
+    color: white;
+  }
+  .beshinchi .yuqori .ong1 .saitlar {
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+    padding: 30px 0px 0px 0px;
+  }
+  .beshinchi .yuqori .ong1 .saitlar img {
+    height: 30px;
+    background-color: white;
+  }
+  .beshinchi .pastki {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 8px 100px;
+    color: white;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) {
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  main {
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 4927px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 25% 15% 15% 35% 10%;
+  }
+  .birinchi {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 65px;
+  }
+  .birinchi .bosh {
+    width: 100%;
+    height: 15%;
+    display: flex;
+  }
+  .birinchi .bosh .chap {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 10px;
+  }
+  .birinchi .bosh .chap img {
+    width: 39.05px;
+    height: 40px;
+    border-radius: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .birinchi .bosh .chap strong {
+    font-size: 28px;
+    margin: 0px 60px 0px 0px;
+  }
+  .birinchi .bosh .chap nav ul {
+    display: none;
+  }
+  .birinchi .bosh .ong {
+    display: none;
+  }
+  .birinchi .bosh .ong .img1 {
+    display: none;
+  }
+  .birinchi .bosh .ong .img2 {
+    display: none;
+  }
+  .birinchi .bosh .korinmas {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+  }
+  .birinchi .bosh .korinmas p {
+    width: 60px;
+    height: 3px;
+    background-color: white;
+  }
+  .birinchi .orta {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    color: white;
+    align-items: center;
+  }
+  .birinchi .orta div {
+    width: 579px;
+    height: 201px;
+  }
+  .birinchi .orta div strong {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+  }
+  .birinchi .teg {
+    background-color: rgba(255, 0, 0, 0.772);
+    width: 100%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+    color: white;
+  }
+  .birinchi .teg strong {
+    width: 616px;
+    height: 55px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+  }
+  .birinchi .teg p {
+    width: 616px;
+    height: 72px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    margin: 0;
+  }
+  .birinchi .teg button {
+    width: 93px;
+    height: 18px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #FF753A;
+    border-radius: 32px;
+    width: 135px;
+    height: 39px;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+  }
+  .ikkinchi {
+    background-color: white;
+    display: flex;
+    padding: 80px 64px;
+    -moz-column-gap: 3%;
+         column-gap: 3%;
+    row-gap: 14px;
+    flex-wrap: wrap;
+  }
+  .ikkinchi .d1 {
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .ikkinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .ikkinchi .d1 strong {
+    font-size: 40px;
+  }
+  .ikkinchi .d2 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .ikkinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .ikkinchi .d2 div:nth-child(1) img {
+    height: 100%;
+  }
+  .ikkinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .ikkinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 70%;
+    font-size: 100%;
+    padding: 0px;
+  }
+  .ikkinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 2px;
+    width: 300px;
+  }
+  .ikkinchi .d2 div:nth-child(2) .past {
+    width: 300px;
+    font-size: 12px;
+  }
+  .uchinchi {
+    display: flex;
+    padding: 80px 64px;
+    -moz-column-gap: 3%;
+         column-gap: 3%;
+    row-gap: 14px;
+    flex-wrap: wrap;
+  }
+  .uchinchi .d1 {
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .uchinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .uchinchi .d1 strong {
+    font-size: 40px;
+  }
+  .uchinchi .d2 {
+    background-color: white;
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .uchinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .uchinchi .d2 div:nth-child(1) img {
+    height: 100%;
+  }
+  .uchinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .uchinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 70%;
+    font-size: 100%;
+    padding: 0px;
+  }
+  .uchinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 2px;
+    width: 300px;
+  }
+  .uchinchi .d2 div:nth-child(2) .past {
+    width: 300px;
+    font-size: 12px;
+  }
+  .tortinchi {
+    background-color: white;
+    display: flex;
+    padding: 88px 8% 188px 8%;
+    row-gap: 48px;
+    -moz-column-gap: 3%;
+         column-gap: 3%;
+    flex-wrap: wrap;
+  }
+  .tortinchi .d11 {
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .tortinchi .d11 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .tortinchi .d11 strong {
+    font-size: 40px;
+  }
+  .tortinchi .d22 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d22 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d22 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d22 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d22 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d22 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d23 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d23 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d23 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d23 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d23 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d23 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d24 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d24 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d24 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d24 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d24 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d24 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d25 {
+    width: 48%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d25 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d25 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d25 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d25 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d25 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d26 {
+    width: 49%;
+    height: 42%;
+    display: none;
+    grid-template-columns: 1fr;
+    grid-template-rows: 70% 30%;
+  }
+  .tortinchi .d26 .tepa {
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d26 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d26 .past {
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+  }
+  .tortinchi .d26 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d26 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .beshinchi {
+    display: flex;
+    flex-direction: column;
+  }
+  .beshinchi .yuqori {
+    height: 90%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7019607843);
+    display: flex;
+    padding: 60px 100px;
+  }
+  .beshinchi .yuqori .chap1 {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    gap: 48px;
+    align-items: center;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) and (max-width: 763px) {
+  .beshinchi .yuqori .chap1 .ikki ul {
+    display: none;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) {
+  .beshinchi .yuqori .chap1 .bir ul {
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+  }
+  .beshinchi .yuqori .chap1 .bir ul li:nth-child(1) {
+    background-color: white;
+    width: 90px;
+    height: 3px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) {
+  .beshinchi .yuqori .chap1 .ikki ul {
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+  }
+  .beshinchi .yuqori .chap1 .ikki ul li:nth-child(1) {
+    background-color: white;
+    width: 90px;
+    height: 3px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) {
+  .beshinchi .yuqori .ong1 {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .beshinchi .yuqori .ong1 .tepa {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  .beshinchi .yuqori .ong1 .tepa img {
+    width: 39.05px;
+    height: 40px;
+    border-radius: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .beshinchi .yuqori .ong1 .tepa strong {
+    font-size: 28px;
+    color: white;
+  }
+  .beshinchi .yuqori .ong1 .saitlar {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+    padding: 30px 0px 0px 0px;
+  }
+  .beshinchi .yuqori .ong1 .saitlar img {
+    height: 30px;
+    background-color: white;
+  }
+}
+@media (max-width: 1024px) and (min-width: 375px) {
+  .beshinchi .pastki {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 8px 100px;
+    color: white;
+  }
+}
+@media (max-width: 763px) {
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  main {
+    background-color: #C4C4C4;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .birinchi {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 24px;
+  }
+  .birinchi .bosh {
+    width: 100%;
+    height: 15%;
+    display: flex;
+  }
+  .birinchi .bosh .chap {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 10px;
+  }
+  .birinchi .bosh .chap img {
+    width: 23.05px;
+    height: 24px;
+    border-radius: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .birinchi .bosh .chap strong {
+    font-size: 22px;
+  }
+  .birinchi .bosh .chap nav ul {
+    display: none;
+  }
+  .birinchi .bosh .ong {
+    display: none;
+  }
+  .birinchi .bosh .ong .img1 {
+    display: none;
+  }
+  .birinchi .bosh .ong .img2 {
+    display: none;
+  }
+  .birinchi .bosh .korinmas {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+  }
+  .birinchi .bosh .korinmas p {
+    width: 35px;
+    height: 2px;
+    background-color: white;
+  }
+  .birinchi .orta {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+  }
+  .birinchi .orta div {
+    text-align: center;
+  }
+  .birinchi .orta div strong {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+  }
+  .birinchi .teg {
+    width: 100%;
+    height: 25%;
+    background-color: rgba(255, 0, 0, 0.772);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 9px;
+    color: white;
+    padding: 18px 51px;
+  }
+  .birinchi .teg strong {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-size: 100%;
+    width: 80%;
+  }
+  .birinchi .teg p {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-size: 70%;
+    margin: 0;
+    width: 80%;
+  }
+  .birinchi .teg button {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-size: 12px;
+    background-color: #FF753A;
+    border-radius: 32px;
+    width: 30%;
+    height: 32px;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+  }
+  .ikkinchi {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 3%;
+  }
+  .ikkinchi p {
+    width: 100%;
+  }
+  .ikkinchi strong {
+    width: 80%;
+  }
+  .ikkinchi .d1 {
+    width: 100%;
+    height: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .ikkinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .ikkinchi .d1 strong {
+    font-size: 24px;
+  }
+  .ikkinchi .d2 {
+    width: 70%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+  }
+  .ikkinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .ikkinchi .d2 div:nth-child(1) img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .ikkinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .ikkinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 100%;
+    height: 23px;
+    font-size: 18px;
+    padding: 0px;
+  }
+  .ikkinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 2px;
+    width: 100%;
+  }
+  .ikkinchi .d2 div:nth-child(2) .past {
+    width: 100%;
+    font-size: 12px;
+  }
+  .uchinchi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 3%;
+  }
+  .uchinchi p {
+    width: 100%;
+  }
+  .uchinchi strong {
+    width: 80%;
+  }
+  .uchinchi .d1 {
+    width: 100%;
+    height: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .uchinchi .d1 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .uchinchi .d1 strong {
+    font-size: 24px;
+  }
+  .uchinchi .d2 {
+    background-color: white;
+    width: 70%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+  }
+  .uchinchi .d2 div:nth-child(1) {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .uchinchi .d2 div:nth-child(1) img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .uchinchi .d2 div:nth-child(2) {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 24px;
+    justify-content: space-between;
+  }
+  .uchinchi .d2 div:nth-child(2) strong:nth-child(1) {
+    width: 100%;
+    height: 23px;
+    font-size: 18px;
+    padding: 0px;
+  }
+  .uchinchi .d2 div:nth-child(2) .tepa {
+    position: relative;
+    bottom: 2px;
+    width: 100%;
+  }
+  .uchinchi .d2 div:nth-child(2) .past {
+    width: 100%;
+    font-size: 12px;
+  }
+  .tortinchi {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+    justify-content: center;
+    align-items: center;
+  }
+  .tortinchi p {
+    width: 100%;
+  }
+  .tortinchi strong {
+    width: 80%;
+  }
+  .tortinchi .d11 {
+    width: 100%;
+    height: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .tortinchi .d11 p {
+    width: 80px;
+    height: 3px;
+    background-color: #AB0433;
+  }
+  .tortinchi .d11 strong {
+    font-size: 24px;
+  }
+  .tortinchi .d22 {
+    width: 70%;
+    height: 19.2%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d22 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d22 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d22 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d22 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d22 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d23 {
+    width: 70%;
+    height: 19.2%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d23 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d23 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d23 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d23 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d23 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d24 {
+    width: 70%;
+    height: 19.2%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d24 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d24 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d24 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d24 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d24 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d25 {
+    width: 70%;
+    height: 19.2%;
+    display: flex;
+    flex-direction: column;
+  }
+  .tortinchi .d25 .tepa {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d25 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d25 .past {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+    justify-content: center;
+  }
+  .tortinchi .d25 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d25 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .tortinchi .d26 {
+    display: none;
+    grid-template-columns: 1fr;
+    grid-template-rows: 70% 30%;
+  }
+  .tortinchi .d26 .tepa {
+    display: flex;
+    justify-content: center;
+  }
+  .tortinchi .d26 .tepa img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .tortinchi .d26 .past {
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    gap: 4px;
+  }
+  .tortinchi .d26 .past strong {
+    font-size: 24px;
+  }
+  .tortinchi .d26 .past p {
+    color: #C4C4C4;
+    font-size: 18px;
+  }
+  .beshinchi {
+    display: flex;
+    flex-direction: column;
+  }
+  .beshinchi .yuqori {
+    width: 100%;
+    height: 90%;
+    background-color: rgba(0, 0, 0, 0.7019607843);
+    display: flex;
+    flex-direction: column;
+    padding: 60px 100px;
+  }
+  .beshinchi .yuqori .chap1 {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    gap: 48px;
+    align-items: center;
+    justify-content: center;
+  }
+  .beshinchi .yuqori .chap1 .ikki {
+    display: none;
+  }
+  .beshinchi .yuqori .chap1 .bir ul {
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .beshinchi .yuqori .chap1 .bir ul li:nth-child(1) {
+    background-color: white;
+    width: 90px;
+    height: 3px;
+    margin: auto;
+    text-align: center;
+  }
+  .beshinchi .yuqori .ong1 {
+    width: 100%;
+    height: 20%;
+    display: flex;
+  }
+  .beshinchi .yuqori .ong1 .tepa {
+    display: none;
+  }
+  .beshinchi .yuqori .ong1 .saitlar {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 12px;
+    padding: 30px 0px 0px 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .beshinchi .yuqori .ong1 .saitlar img {
+    height: 30px;
+    background-color: white;
+  }
+  .beshinchi .pastki {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    padding: 8px 100px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+  }
+}/*# sourceMappingURL=style.css.map */
